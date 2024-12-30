@@ -1,0 +1,969 @@
+[{
+  "_id": {
+    "$oid": "663497d95d687db05bfcb244"
+  },
+  "name": " CORPORATE SHIRT",
+  "description": "Cotton shirt  collar with Oriental logo on the chest",
+  "price": {
+    "numberDecimal": "70.00",
+    "shippingPrice": 45,
+    "combinePrice": 115
+  },
+  "quantity": 48,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/corporate-shirt-2.png",
+    "https://r2.oresb.com/Merchandise/corporate-shirt-1.png"
+  ],
+  "date": {
+    "$date": "2024-05-03T07:52:57.877Z"
+  },
+  "active": false,
+  "category": "clothing",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "70.00",
+          "shippingPrice": 45,
+          "combinePrice": 115
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "70.00",
+          "shippingPrice": 45,
+          "combinePrice": 115
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "70.00",
+          "shippingPrice": 45,
+          "combinePrice": 115
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 18,
+        "price": {
+          "numberDecimal": "70.00",
+          "shippingPrice": 45,
+          "combinePrice": 115
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663c2816a96e58292d1592a5"
+  },
+  "name": "ROUNDNECK T-SHIRT  (BLACK)",
+  "description": "Cotton shirt with white Oriental logo on the chest",
+  "price": {
+    "numberDecimal": "16.00",
+    "shippingPrice": 8,
+    "combinePrice": 24
+  },
+  "quantity": 20,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/Black.png"
+  ],
+  "date": {
+    "$date": "2024-05-09T01:34:14.280Z"
+  },
+  "active": false,
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 35,
+        "length_cm": 25,
+        "width_cm": 18,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 40,
+        "length_cm": 30,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 45,
+        "length_cm": 35,
+        "width_cm": 22,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      }
+    ]
+  },
+  "category": "clothing"
+},
+{
+  "_id": {
+    "$oid": "6662ab9f23303571fc9a538d"
+  },
+  "name": "RECYCLABLE SHOPPING  BAG",
+  "description": "Non-woven bag with Oriental logo and QR Code for company website",
+  "price": {
+    "numberDecimal": "16.00",
+    "shippingPrice": 8,
+    "combinePrice": 24
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/10.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:41:35.368Z"
+  },
+  "active": false,
+  "hasSizingTable": false,
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 35,
+        "length_cm": 25,
+        "width_cm": 18,
+        "price": {
+          "numberDecimal": "18.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 40,
+        "length_cm": 30,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "20.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 45,
+        "length_cm": 35,
+        "width_cm": 22,
+        "price": {
+          "numberDecimal": "22.00",
+          "shippingPrice": 8,
+          "combinePrice": 24
+        }
+      }
+    ]
+  },
+  "category": "accessory"
+},
+{
+  "_id": {
+    "$oid": "6662ac0c0508353011dc4646"
+  },
+  "name": " KEYCHAIN",
+  "description": "Metal keychain with Oriental logo and QR Code for the company website",
+  "price": {
+    "numberDecimal": "8.00",
+    "shippingPrice": 5,
+    "combinePrice": 13
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/12.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:43:24.608Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 5,
+          "combinePrice": 13
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 5,
+          "combinePrice": 13
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 5,
+          "combinePrice": 13
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 18,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 5,
+          "combinePrice": 13
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662ac330508353011dc4647"
+  },
+  "name": " LANYARD (RED)",
+  "description": " Lanyard with red color and logo Oriental",
+  "price": {
+    "numberDecimal": "15.00",
+    "shippingPrice": 3,
+    "combinePrice": 18
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/11.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:44:03.367Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "15.00",
+          "shippingPrice": 3,
+          "combinePrice": 18
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "15.00",
+          "shippingPrice": 3,
+          "combinePrice": 18
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "15.00",
+          "shippingPrice": 3,
+          "combinePrice": 18
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "15.00",
+          "shippingPrice": 3,
+          "combinePrice": 18
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662ac750508353011dc4648"
+  },
+  "name": " OVERSIZED SHIRT (WHITE)",
+  "description": " Cotton t-shirt oversized; short sleeve with Oriental logo",
+  "price": {
+    "numberDecimal": "75.00",
+    "shippingPrice": 28.3,
+    "combinePrice": 105
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/6.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:45:09.428Z"
+  },
+  "active": false,
+  "category": "clothing",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "75.00",
+          "shippingPrice": 28.3,
+          "combinePrice": 105
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "75.00",
+          "shippingPrice": 28.3,
+          "combinePrice": 105
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "75.00",
+          "shippingPrice": 28.3,
+          "combinePrice": 105
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "75.00",
+          "shippingPrice": 28.3,
+          "combinePrice": 105
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662aca20508353011dc4649"
+  },
+  "name": "SWEATSHIRT (BLACK)",
+  "description": "Sweat shirt; long sleeve with Oriental logo",
+  "price": {
+    "numberDecimal": "105.00",
+    "shippingPrice": 44.3,
+    "combinePrice": 150
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/5.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:45:54.704Z"
+  },
+  "active": false,
+  "category": "clothing",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "105.00",
+          "shippingPrice": 44.3,
+          "combinePrice": 150
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "105.00",
+          "shippingPrice": 44.3,
+          "combinePrice": 150
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "105.00",
+          "shippingPrice": 44.3,
+          "combinePrice": 150
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "105.00",
+          "shippingPrice": 44.3,
+          "combinePrice": 150
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662ad300508353011dc464a"
+  },
+  "name": "ROUNDNECK T-SHIRT  (RED) ",
+  "description": "Cotton shirt with white Oriental logo on the chest",
+  "price": {
+    "numberDecimal": "16.00",
+    "shippingPrice": 9.5,
+    "combinePrice": 26
+  },
+  "quantity": 20,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/3.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:48:16.017Z"
+  },
+  "active": false,
+  "category": "clothing",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 9.5,
+          "combinePrice": 26
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 9.5,
+          "combinePrice": 26
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 9.5,
+          "combinePrice": 26
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "16.00",
+          "shippingPrice": 9.5,
+          "combinePrice": 26
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662ad5b0508353011dc464b"
+  },
+  "name": "COLLAR T-SHIRT",
+  "description": "Microfibre t-shirt with Oriental logo in front",
+  "price": {
+    "numberDecimal": "35.00",
+    "shippingPrice": 10.8,
+    "combinePrice": 46
+  },
+  "quantity": 15,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/9.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:48:59.070Z"
+  },
+  "active": false,
+  "category": "clothing",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "35.00",
+          "shippingPrice": 10.8,
+          "combinePrice": 46
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "35.00",
+          "shippingPrice": 10.8,
+          "combinePrice": 46
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "35.00",
+          "shippingPrice": 10.8,
+          "combinePrice": 46
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "35.00",
+          "shippingPrice": 10.8,
+          "combinePrice": 46
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662afb05962fcc348ea08c2"
+  },
+  "name": "LANYARD + HOLDER (BLACK)",
+  "description": " Lanyard with black colour and logo Oriental",
+  "price": {
+    "numberDecimal": "20.00",
+    "shippingPrice": 3,
+    "combinePrice": 23
+  },
+  "quantity": 100,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/WhatsApp Image 2024-06-07 at 2.58.30 PM.jpeg"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:58:56.327Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "20.00",
+          "shippingPrice": 3,
+          "combinePrice": 23
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "20.00",
+          "shippingPrice": 3,
+          "combinePrice": 23
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "20.00",
+          "shippingPrice": 3,
+          "combinePrice": 23
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "20.00",
+          "shippingPrice": 3,
+          "combinePrice": 23
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662affb5962fcc348ea08c3"
+  },
+  "name": " NFC BUSSINESS CARD ",
+  "description": "NFC Bussiness Card within black color and logo on it",
+  "price": {
+    "numberDecimal": "160.00",
+    "shippingPrice": 4.5,
+    "combinePrice": 165
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/8.png",
+    "https://r2.oresb.com/Merchandise/7.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T07:00:11.612Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "160.00",
+          "shippingPrice": 4.5,
+          "combinePrice": 165
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "160.00",
+          "shippingPrice": 4.5,
+          "combinePrice": 165
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "160.00",
+          "shippingPrice": 4.5,
+          "combinePrice": 165
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "160.00",
+          "shippingPrice": 4.5,
+          "combinePrice": 165
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6662b0575962fcc348ea08c4"
+  },
+  "name": "E-BOOK NEW AGENT RAPID SUCCESS PROGRAMME (NARS)",
+  "description": " E-book for new agents ",
+  "price": {
+    "numberDecimal": "65.00",
+    "shippingPrice": 9.9,
+    "combinePrice": 75
+  },
+  "quantity": 50,
+  "photo": [
+    "https://r2.oresb.com/Merchandise/4.png"
+  ],
+  "date": {
+    "$date": "2024-06-07T07:01:43.078Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "65.00",
+          "shippingPrice": 9.9,
+          "combinePrice": 75
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "65.00",
+          "shippingPrice": 9.9,
+          "combinePrice": 75
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "65.00",
+          "shippingPrice": 9.9,
+          "combinePrice": 75
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "65.00",
+          "shippingPrice": 9.9,
+          "combinePrice": 75
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67512369dec1c7cc2f86b01d"
+  },
+  "name": "HARI RAYA MONEY PACKET",
+  "description": "Hari Raya Money Packet celebrate raya with joy and warmth together with Oriental. (10 pieces per pack)",
+  "price": {
+    "numberDecimal": "8.00",
+    "shippingPrice": 2,
+    "combinePrice": 10
+  },
+  "quantity": 40,
+  "photo": [
+    "/hariRaya.jpg"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:58:56.327Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67512544dec1c7cc2f86b01e"
+  },
+  "name": "CHINESE NEW YEAR MONEY PACKET",
+  "description": "Chinese New Year Money Packet symbolize with red color to represent prosperity and health celebrate together with Oriental. (10 pieces per pack)",
+  "price": {
+    "numberDecimal": "8.00",
+    "shippingPrice": 2,
+    "combinePrice": 10
+  },
+  "quantity": 40,
+  "photo": [
+    "/chinese.jpg"
+  ],
+  "date": {
+    "$date": "2024-06-07T06:58:56.327Z"
+  },
+  "active": false,
+  "category": "accessory",
+  "dimensions_per_quantity": {
+    "size": [
+      {
+        "size": "S",
+        "height_cm": 30,
+        "length_cm": 20,
+        "width_cm": 15,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "M",
+        "height_cm": 32,
+        "length_cm": 22,
+        "width_cm": 16,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "L",
+        "height_cm": 34,
+        "length_cm": 24,
+        "width_cm": 17,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      },
+      {
+        "size": "XL",
+        "height_cm": 36,
+        "length_cm": 26,
+        "width_cm": 20,
+        "price": {
+          "numberDecimal": "8.00",
+          "shippingPrice": 2,
+          "combinePrice": 10
+        }
+      }
+    ]
+  }
+}]
